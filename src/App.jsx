@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 import searchLogo from "./assets/seo.png";
 import "./App.css";
